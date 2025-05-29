@@ -1,0 +1,30 @@
+[
+    {
+        "question": "There are 20 willow trees in a mountain, the number of poplar trees plus one equals to one-fourth of the willow trees, the square of the number of camphor trees is equal to the number of poplar trees, and the number of peach trees is ten times the number of camphor trees. Are the willow trees the same as the peach trees?",
+        "correct": "Same",
+        "options": [
+            "More",
+            "Less",
+            "Same",
+            "Uncertain"
+        ],
+        "category": [
+            "Mathematical",
+            "Identity"
+        ],
+        "hint": "Willow 20, Poplar 4, Camphor 2, Peach 20"
+    },
+    {
+        "question": "In a warehouse, the inventory of brand A is twice that of brand B. The inventory of brand C is twice that of brand A. How does the inventory of brand C compare to brand B?",
+        "correct": "Four times",
+        "options": [
+            "Twice",
+            "Four times",
+            "Same",
+            "Uncertain"
+        ],
+        "category": [
+            "Comparative"
+        ]
+    }
+]
